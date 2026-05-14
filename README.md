@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there :smiley:
 
+My name is chuffeddandy, and I am a Biomedical Engineering Graduate, building my coding + technical skills to become a ML Engineer.
+I will work in healthcare technology, in particular, developing software for Medical Imaging Devices.
+
+💻 Coding Languages: Python, C++ 
+
+📝What im Learning: Image Processing, Image Analysis, AI and ML
+
+✨ Pronouns: she/they 
+
+PROJECTS TO BE UPLOADED SOON!!
 <!--
-**chuffeddandy/chuffeddandy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
