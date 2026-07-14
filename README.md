@@ -8,7 +8,5 @@ I will work in healthcare technology, in particular, developing software for Med
 📝What im Learning: Image Processing, Image Analysis, AI and ML
 
 ✨ Pronouns: she/they 
-
-PROJECTS TO BE UPLOADED SOON!!
 <!--
 -->
